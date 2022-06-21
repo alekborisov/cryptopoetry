@@ -1,0 +1,461 @@
+body {
+  margin: 0px;
+  background: #6495ED;
+  font-family: Courier, monospace;
+  text-align:  center;
+}
+
+.container-head {
+  width: 100%;
+  max-width: 800px;
+  height: 150px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #6495ED;
+  }
+
+.logo {
+  float: left;
+  margin-left: 9px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 17pt;
+  color: #F0F8FF;
+}
+
+nav {
+  float: right;
+  font-size: 12pt;
+  color: #F0F8FF;
+}
+
+nav ul {
+  margin: 10px 0px;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+li {
+  margin-right: 9px;
+}
+
+a {
+  text-decoration: none;
+  color: #F0F8FF;
+}
+
+a:hover {
+  text-decoration: underline;
+	}
+
+a:active {
+  text-decoration: underline;
+  color: #FFFFFF;
+  }
+
+a:visited {
+  text-decoration: none;
+  color: #F0F8FF;
+	}
+
+a.content {
+  text-decoration: none;
+  color: #F0F8FF;
+  }
+
+a.content:hover {
+    text-decoration: none;
+    color: #1E90FF;
+    }
+
+a.content-l2 {
+  text-decoration: none;
+  color: #000000;
+  }
+
+a.content-l2:hover {
+  text-decoration: none;
+  color: #1E90FF;
+  }
+
+.container-slog {
+  text-align: left;
+  position:absolute;
+  top: 100px;
+	left: 440px;
+  font-size: 21pt;
+  letter-spacing: 30px;
+  color: #4B4B4B;
+  }
+
+.container-title {
+  width: 100%;
+  max-width: 800px;
+  height: 150px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #FFFCCC;
+  text-align: center;
+  line-height: 0.35em;
+  font-size: 11pt;
+  color: #000000;
+  }
+
+.ttl
+  {
+  font-size: 21pt;
+  line-height: 0em;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background: #FFFFFF;
+  }
+
+.container-chain {
+  width: 100%;
+  max-width: 800px;
+  height: 20px;
+  padding: 2px 0px 0px;
+  border: 0;
+  margin: 0 auto;
+  background: #000000;
+  font-size: 10pt;
+  text-align: center;
+  color: #D3D3D3;
+  }
+
+.container-home {
+  width: 100%;
+  max-width: 800px;
+  height: 600px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  line-height: 0.55em;
+  font-size: 11pt;
+  color: #000000;
+  }
+
+  .hp1 {
+  width: 100%;
+  max-width: 700px;
+  height: 330px;
+  padding: 30px 35px 20px 60px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  font-family: Courier, monospace;
+  line-height: 0.55em;
+  background: #FFFFFF;
+  color: #000000;
+  }
+
+.container-about {
+  width: 100%;
+  max-width: 800px;
+  height: 3415px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  line-height: 0.55em;
+  font-size: 11pt;
+  color: #000000;
+  }
+
+.container-txt {
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  padding: 30px 35px 20px 60px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  font-family: Courier, monospace;
+  background: #FFFFFF;
+  color: #000000;
+  }
+
+span.underline {
+  text-decoration-line: underline;
+  }
+
+.a1 {
+  max-width: 700px;
+  padding: 0px 0px 20px 0px;
+  background: #FFFFFF;
+  white-space: normal;
+  line-height: 1.2em;
+  word-break: break-word;
+  overflow: hidden;
+  color: #000000;
+}
+
+.a2 {
+  max-width: 700px;
+  padding: 0px 0px 20px 0px;
+  background: #FFFFFF;
+  white-space: normal;
+  line-height: 1.2em;
+  word-break: break-word;
+  overflow: hidden;
+  color: #000000;
+}
+
+.a3 {
+  max-width: 700px;
+  padding: 0px 0px 20px 0px;
+  background: #FFFFFF;
+  white-space: normal;
+  line-height: 1.2em;
+  word-break: break-word;
+  overflow: hidden;
+  color: #000000;
+}
+
+.a4 {
+  max-width: 700px;
+  padding: 0px 0px 20px 0px;
+  background: #FFFFFF;
+  white-space: normal;
+  line-height: 1.2em;
+  word-break: break-word;
+  overflow: hidden;
+  color: #000000;
+}
+
+.container-poem1 {
+  width: 100%;
+  max-width: 800px;
+  height: 390px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  line-height: 0.55em;
+  font-size: 11pt;
+  color: #3C3C3C;
+  }
+
+  .p1 {
+  max-width: 140px;
+  height: 135px;
+  padding: 10px 5px 10px 40px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 0.55em;
+  background: #FFFFFF;
+  color: #000000;
+  }
+
+.container-poem2 {
+  width: 100%;
+  max-width: 800px;
+  height: 245px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  line-height: 0.5em;
+  font-size: 11pt;
+  color: #3C3C3C;
+  }
+
+  .p2 {
+  max-width: 140px;
+  height: 70px;
+  padding: 10px 15px 10px 25px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 0.55em;
+  background: #FFFFFF;
+  color: #000000;
+  }
+
+.container-poem3 {
+  width: 100%;
+  max-width: 800px;
+  height: 245px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  line-height: 0.5em;
+  font-size: 11pt;
+  color: #3C3C3C;
+  }
+
+  .p3 {
+  max-width: 110px;
+  height: 70px;
+  padding: 10px 15px 10px 30px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 0.55em;
+  background: #FFFFFF;
+  color: #000000;
+  }
+
+.container-poem4 {
+  width: 100%;
+  max-width: 800px;
+  height: 550px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  line-height: 0.5em;
+  font-size: 11pt;
+  color: #3C3C3C;
+  }
+
+  .p4 {
+  max-width: 120px;
+  height: 200px;
+  padding: 10px 15px 10px 60px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 0.55em;
+  background: #FFFFFF;
+  color: #000000;
+  }
+
+.container-poem5 {
+  width: 100%;
+  max-width: 800px;
+  height: 675px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  line-height: 0.5em;
+  font-size: 11pt;
+  color: #3C3C3C;
+  }
+
+  .p5 {
+  max-width: 155px;
+  height: 300px;
+  padding: 10px 15px 10px 30px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 0.55em;
+  background: #FFFFFF;
+  color: #000000;
+  }
+
+.container-poem6 {
+  width: 100%;
+  max-width: 800px;
+  height: 735px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  line-height: 0.5em;
+  font-size: 11pt;
+  color: #3C3C3C;
+  }
+
+  .p6 {
+  max-width: 155px;
+  height: 300px;
+  padding: 10px 15px 10px 30px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 0.55em;
+  background: #FFFFFF;
+  color: #000000;
+  }
+
+.container-poem7 {
+  width: 100%;
+  max-width: 800px;
+  height: 400px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  line-height: 0.5em;
+  font-size: 11pt;
+  color: #3C3C3C;
+  }
+
+  .p7 {
+  max-width: 105px;
+  height: 245px;
+  padding: 10px 15px 10px 25px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 0.55em;
+  background: #FFFFFF;
+  color: #000000;
+  }
+
+.container-poem8 {
+  width: 100%;
+  max-width: 800px;
+  height: 330px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  line-height: 0.5em;
+  font-size: 11pt;
+  color: #3C3C3C;
+  }
+
+  .p8 {
+  max-width: 95px;
+  height: 120px;
+  padding: 10px 15px 10px 30px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 0.55em;
+  background: #FFFFFF;
+  color: #000000;
+  }
+
+.container-foot {
+  width: 100%;
+  max-width: 800px;
+  height: 25px;
+  padding: 25px 25px 15px;
+  border: 0;
+  margin: 0 auto;
+  background: #6495ED;
+  color: white;
+  font-size: 11pt;
+  text-align: center;
+  font-family: Courier;
+  color: #F0F8FF;
+  }
