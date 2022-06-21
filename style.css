@@ -109,7 +109,7 @@ a.content-l2:hover {
   text-align: center;
   line-height: 0.35em;
   font-size: 11pt;
-  color: #4B4B4B;
+  color: #000000;
   }
 
 .ttl
@@ -145,7 +145,7 @@ a.content-l2:hover {
   text-align: center;
   line-height: 0.55em;
   font-size: 11pt;
-  color: #3C3C3C;
+  color: #000000;
   }
 
   .hp1 {
@@ -159,7 +159,7 @@ a.content-l2:hover {
   font-family: Courier, monospace;
   line-height: 0.55em;
   background: #FFFFFF;
-  color: #3C3C3C;
+  color: #000000;
   }
 
 .container-about {
@@ -173,7 +173,7 @@ a.content-l2:hover {
   text-align: center;
   line-height: 0.55em;
   font-size: 11pt;
-  color: #3C3C3C;
+  color: #000000;
   }
 
 .container-txt {
@@ -186,6 +186,7 @@ a.content-l2:hover {
   text-align: left;
   font-family: Courier, monospace;
   background: #FFFFFF;
+  color: #000000;
   }
 
 span.underline {
@@ -200,6 +201,7 @@ span.underline {
   line-height: 1.2em;
   word-break: break-word;
   overflow: hidden;
+  color: #000000;
 }
 
 .a2 {
@@ -210,6 +212,7 @@ span.underline {
   line-height: 1.2em;
   word-break: break-word;
   overflow: hidden;
+  color: #000000;
 }
 
 .a3 {
@@ -220,6 +223,7 @@ span.underline {
   line-height: 1.2em;
   word-break: break-word;
   overflow: hidden;
+  color: #000000;
 }
 
 .a4 {
@@ -230,6 +234,7 @@ span.underline {
   line-height: 1.2em;
   word-break: break-word;
   overflow: hidden;
+  color: #000000;
 }
 
 .container-poem1 {
@@ -255,7 +260,7 @@ span.underline {
   text-align: left;
   line-height: 0.55em;
   background: #FFFFFF;
-  color: #3C3C3C;
+  color: #000000;
   }
 
 .container-poem2 {
@@ -281,7 +286,7 @@ span.underline {
   text-align: left;
   line-height: 0.55em;
   background: #FFFFFF;
-  color: #3C3C3C;
+  color: #000000;
   }
 
 .container-poem3 {
@@ -307,7 +312,7 @@ span.underline {
   text-align: left;
   line-height: 0.55em;
   background: #FFFFFF;
-  color: #3C3C3C;
+  color: #000000;
   }
 
 .container-poem4 {
@@ -333,7 +338,7 @@ span.underline {
   text-align: left;
   line-height: 0.55em;
   background: #FFFFFF;
-  color: #3C3C3C;
+  color: #000000;
   }
 
 .container-poem5 {
@@ -359,7 +364,7 @@ span.underline {
   text-align: left;
   line-height: 0.55em;
   background: #FFFFFF;
-  color: #3C3C3C;
+  color: #000000;
   }
 
 .container-poem6 {
@@ -385,7 +390,7 @@ span.underline {
   text-align: left;
   line-height: 0.55em;
   background: #FFFFFF;
-  color: #3C3C3C;
+  color: #000000;
   }
 
 .container-poem7 {
@@ -411,7 +416,7 @@ span.underline {
   text-align: left;
   line-height: 0.55em;
   background: #FFFFFF;
-  color: #3C3C3C;
+  color: #000000;
   }
 
 .container-poem8 {
@@ -437,7 +442,7 @@ span.underline {
   text-align: left;
   line-height: 0.55em;
   background: #FFFFFF;
-  color: #3C3C3C;
+  color: #000000;
   }
 
 .container-foot {
