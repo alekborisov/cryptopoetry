@@ -1,6 +1,6 @@
 body {
   margin: 0px;
-  background: #6495ED;
+  background: repeating-radial-gradient(circle, #0086b3, #0086b3 10px, #0099cc 10px, #0099cc 20px);
   font-family: Courier, monospace;
   text-align:  center;
 }
@@ -12,7 +12,7 @@ body {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #6495ED;
+  background: #0086b3;
   }
 
 .logo {
@@ -75,7 +75,7 @@ a.content {
 
 a.content:hover {
     text-decoration: none;
-    color: #1E90FF;
+    color: #1ac6ff;
     }
 
 a.content-l2 {
@@ -85,7 +85,7 @@ a.content-l2 {
 
 a.content-l2:hover {
   text-decoration: none;
-  color: #1E90FF;
+  color: #1ac6ff;
   }
 
 .container-slog {
@@ -105,7 +105,7 @@ a.content-l2:hover {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #FFFCCC;
+  background: clear;
   text-align: center;
   line-height: 0.35em;
   font-size: 11pt;
@@ -165,7 +165,7 @@ a.content-l2:hover {
 .container-about {
   width: 100%;
   max-width: 800px;
-  height: 3415px;
+  height: 3730px;
   padding: 25px;
   border: 0;
   margin: 0 auto;
@@ -200,6 +200,7 @@ span.underline {
   white-space: normal;
   line-height: 1.2em;
   word-break: break-word;
+  text-align: justify;
   overflow: hidden;
   color: #000000;
 }
@@ -211,6 +212,7 @@ span.underline {
   white-space: normal;
   line-height: 1.2em;
   word-break: break-word;
+  text-align: justify;
   overflow: hidden;
   color: #000000;
 }
@@ -222,6 +224,7 @@ span.underline {
   white-space: normal;
   line-height: 1.2em;
   word-break: break-word;
+  text-align: justify;
   overflow: hidden;
   color: #000000;
 }
@@ -233,6 +236,7 @@ span.underline {
   white-space: normal;
   line-height: 1.2em;
   word-break: break-word;
+  text-align: justify;
   overflow: hidden;
   color: #000000;
 }
@@ -318,7 +322,7 @@ span.underline {
 .container-poem4 {
   width: 100%;
   max-width: 800px;
-  height: 550px;
+  height: 245px;
   padding: 25px;
   border: 0;
   margin: 0 auto;
@@ -330,9 +334,9 @@ span.underline {
   }
 
   .p4 {
-  max-width: 120px;
-  height: 200px;
-  padding: 10px 15px 10px 60px;
+  max-width: 110px;
+  height: 70px;
+  padding: 10px 15px 10px 30px;
   border: 0;
   margin: 0 auto;
   text-align: left;
@@ -344,7 +348,7 @@ span.underline {
 .container-poem5 {
   width: 100%;
   max-width: 800px;
-  height: 675px;
+  height: 550px;
   padding: 25px;
   border: 0;
   margin: 0 auto;
@@ -356,9 +360,9 @@ span.underline {
   }
 
   .p5 {
-  max-width: 155px;
-  height: 300px;
-  padding: 10px 15px 10px 30px;
+  max-width: 120px;
+  height: 200px;
+  padding: 10px 15px 10px 60px;
   border: 0;
   margin: 0 auto;
   text-align: left;
@@ -370,7 +374,7 @@ span.underline {
 .container-poem6 {
   width: 100%;
   max-width: 800px;
-  height: 735px;
+  height: 675px;
   padding: 25px;
   border: 0;
   margin: 0 auto;
@@ -396,7 +400,7 @@ span.underline {
 .container-poem7 {
   width: 100%;
   max-width: 800px;
-  height: 400px;
+  height: 735px;
   padding: 25px;
   border: 0;
   margin: 0 auto;
@@ -408,6 +412,32 @@ span.underline {
   }
 
   .p7 {
+  max-width: 155px;
+  height: 300px;
+  padding: 10px 15px 10px 30px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 0.55em;
+  background: #FFFFFF;
+  color: #000000;
+  }
+
+.container-poem8 {
+  width: 100%;
+  max-width: 800px;
+  height: 400px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  line-height: 0.5em;
+  font-size: 11pt;
+  color: #3C3C3C;
+  }
+
+  .p8 {
   max-width: 105px;
   height: 245px;
   padding: 10px 15px 10px 25px;
@@ -419,7 +449,7 @@ span.underline {
   color: #000000;
   }
 
-.container-poem8 {
+.container-poem9 {
   width: 100%;
   max-width: 800px;
   height: 330px;
@@ -433,7 +463,7 @@ span.underline {
   color: #3C3C3C;
   }
 
-  .p8 {
+  .p9 {
   max-width: 95px;
   height: 120px;
   padding: 10px 15px 10px 30px;
@@ -445,6 +475,82 @@ span.underline {
   color: #000000;
   }
 
+.container-poem10 {
+  width: 100%;
+  max-width: 800px;
+  height: 730px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  line-height: 0.5em;
+  font-size: 11pt;
+  color: #3C3C3C;
+  }
+
+.p10 {
+  max-width: 180px;
+  height: 430px;
+  padding: 10px 15px 10px 40px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 0.55em;
+  background: #FFFFFF;
+  color: #000000;
+  }
+
+.container-volume {
+  width: 100%;
+  max-width: 800px;
+  height: 1200px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #FFFFFF;
+  text-align: center;
+  line-height: 0.55em;
+  font-size: 11pt;
+  color: #000000;
+  }
+
+.container-txt {
+  width: 100%;
+  max-width: 610px;
+  height: auto;
+  padding: 30px 50px 20px 60px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  font-family: Courier, monospace;
+  background: #FFFFFF;
+  color: #000000;
+  }
+
+.va1 {
+  max-width: 700px;
+  padding: 0px 0px 20px 0px;
+  background: #FFFFFF;
+  white-space: normal;
+  line-height: 1.2em;
+  word-break: break-word;
+  overflow: hidden;
+  color: #000000;
+  }
+
+.va2 {
+  max-width: 700px;
+  padding: 0px 0px 20px 0px;
+  background: #FFFFFF;
+  white-space: normal;
+  line-height: 1.2em;
+  word-break: break-word;
+  text-align: justify;
+  overflow: hidden;
+  color: #000000;
+  }
+
 .container-foot {
   width: 100%;
   max-width: 800px;
@@ -452,7 +558,7 @@ span.underline {
   padding: 25px 25px 15px;
   border: 0;
   margin: 0 auto;
-  background: #6495ED;
+  background: clear;
   color: white;
   font-size: 11pt;
   text-align: center;
