@@ -105,11 +105,13 @@ a.content-l2:hover {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: clear;
   text-align: center;
   line-height: 0.35em;
   font-size: 11pt;
   color: #000000;
+  background: linear-gradient(to bottom, #00FFFF 45%, #DEFFFF 46%, #00FFFF 60%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   }
 
 .ttl
@@ -118,7 +120,8 @@ a.content-l2:hover {
   line-height: 0em;
   font-family: Verdana, Arial, Helvetica, sans-serif;
   font-weight: bold;
-  background: #FFFFFF;
+  background: transparent;
+  color: #000000;
   }
 
 .container-chain {
@@ -141,7 +144,7 @@ a.content-l2:hover {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #FFFFFF;
+  background: #F9FFFF;
   text-align: center;
   line-height: 0.55em;
   font-size: 11pt;
@@ -158,7 +161,7 @@ a.content-l2:hover {
   text-align: left;
   font-family: Courier, monospace;
   line-height: 0.55em;
-  background: #FFFFFF;
+  background: #F9FFFF;
   color: #000000;
   }
 
@@ -169,7 +172,7 @@ a.content-l2:hover {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #FFFFFF;
+  background: #F9FFFF;
   text-align: center;
   line-height: 0.55em;
   font-size: 11pt;
@@ -185,7 +188,7 @@ a.content-l2:hover {
   margin: 0 auto;
   text-align: left;
   font-family: Courier, monospace;
-  background: #FFFFFF;
+  background: #F9FFFF;
   color: #000000;
   }
 
@@ -196,7 +199,7 @@ span.underline {
 .a1 {
   max-width: 700px;
   padding: 0px 0px 20px 0px;
-  background: #FFFFFF;
+  background: #F9FFFF;
   white-space: normal;
   line-height: 1.2em;
   word-break: break-word;
@@ -208,7 +211,7 @@ span.underline {
 .a2 {
   max-width: 700px;
   padding: 0px 0px 20px 0px;
-  background: #FFFFFF;
+  background: #F9FFFF;
   white-space: normal;
   line-height: 1.2em;
   word-break: break-word;
@@ -220,7 +223,7 @@ span.underline {
 .a3 {
   max-width: 700px;
   padding: 0px 0px 20px 0px;
-  background: #FFFFFF;
+  background: #F9FFFF;
   white-space: normal;
   line-height: 1.2em;
   word-break: break-word;
@@ -232,7 +235,7 @@ span.underline {
 .a4 {
   max-width: 700px;
   padding: 0px 0px 20px 0px;
-  background: #FFFFFF;
+  background: #F9FFFF;
   white-space: normal;
   line-height: 1.2em;
   word-break: break-word;
@@ -248,7 +251,7 @@ span.underline {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #FFFFFF;
+  background: #F9FFFF;
   text-align: center;
   line-height: 0.55em;
   font-size: 11pt;
@@ -263,7 +266,7 @@ span.underline {
   margin: 0 auto;
   text-align: left;
   line-height: 0.55em;
-  background: #FFFFFF;
+  background: #F9FFFF;
   color: #000000;
   }
 
@@ -274,7 +277,7 @@ span.underline {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #FFFFFF;
+  background: #F9FFFF;
   text-align: center;
   line-height: 0.5em;
   font-size: 11pt;
@@ -289,7 +292,7 @@ span.underline {
   margin: 0 auto;
   text-align: left;
   line-height: 0.55em;
-  background: #FFFFFF;
+  background: #F9FFFF;
   color: #000000;
   }
 
@@ -300,7 +303,7 @@ span.underline {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #FFFFFF;
+  background: #F9FFFF;
   text-align: center;
   line-height: 0.5em;
   font-size: 11pt;
@@ -315,7 +318,7 @@ span.underline {
   margin: 0 auto;
   text-align: left;
   line-height: 0.55em;
-  background: #FFFFFF;
+  background: #F9FFFF;
   color: #000000;
   }
 
@@ -326,7 +329,7 @@ span.underline {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #FFFFFF;
+  background: #F9FFFF;
   text-align: center;
   line-height: 0.5em;
   font-size: 11pt;
@@ -341,7 +344,7 @@ span.underline {
   margin: 0 auto;
   text-align: left;
   line-height: 0.55em;
-  background: #FFFFFF;
+  background: #F9FFFF;
   color: #000000;
   }
 
@@ -352,7 +355,7 @@ span.underline {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #FFFFFF;
+  background: #F9FFFF;
   text-align: center;
   line-height: 0.5em;
   font-size: 11pt;
@@ -367,7 +370,7 @@ span.underline {
   margin: 0 auto;
   text-align: left;
   line-height: 0.55em;
-  background: #FFFFFF;
+  background: #F9FFFF;
   color: #000000;
   }
 
@@ -378,7 +381,7 @@ span.underline {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #FFFFFF;
+  background: #F9FFFF;
   text-align: center;
   line-height: 0.5em;
   font-size: 11pt;
@@ -393,7 +396,7 @@ span.underline {
   margin: 0 auto;
   text-align: left;
   line-height: 0.55em;
-  background: #FFFFFF;
+  background: #F9FFFF;
   color: #000000;
   }
 
@@ -404,7 +407,7 @@ span.underline {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #FFFFFF;
+  background: #F9FFFF;
   text-align: center;
   line-height: 0.5em;
   font-size: 11pt;
@@ -419,7 +422,7 @@ span.underline {
   margin: 0 auto;
   text-align: left;
   line-height: 0.55em;
-  background: #FFFFFF;
+  background: #F9FFFF;
   color: #000000;
   }
 
@@ -430,7 +433,7 @@ span.underline {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #FFFFFF;
+  background: #F9FFFF;
   text-align: center;
   line-height: 0.5em;
   font-size: 11pt;
@@ -445,7 +448,7 @@ span.underline {
   margin: 0 auto;
   text-align: left;
   line-height: 0.55em;
-  background: #FFFFFF;
+  background: #F9FFFF;
   color: #000000;
   }
 
@@ -456,7 +459,7 @@ span.underline {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #FFFFFF;
+  background: #F9FFFF;
   text-align: center;
   line-height: 0.5em;
   font-size: 11pt;
@@ -471,7 +474,7 @@ span.underline {
   margin: 0 auto;
   text-align: left;
   line-height: 0.55em;
-  background: #FFFFFF;
+  background: #F9FFFF;
   color: #000000;
   }
 
@@ -482,7 +485,7 @@ span.underline {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #FFFFFF;
+  background: #F9FFFF;
   text-align: center;
   line-height: 0.5em;
   font-size: 11pt;
@@ -497,7 +500,7 @@ span.underline {
   margin: 0 auto;
   text-align: left;
   line-height: 0.55em;
-  background: #FFFFFF;
+  background: #F9FFFF;
   color: #000000;
   }
 
@@ -508,7 +511,7 @@ span.underline {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #FFFFFF;
+  background: #F9FFFF;
   text-align: center;
   line-height: 0.55em;
   font-size: 11pt;
@@ -524,14 +527,14 @@ span.underline {
   margin: 0 auto;
   text-align: left;
   font-family: Courier, monospace;
-  background: #FFFFFF;
+  background: #F9FFFF;
   color: #000000;
   }
 
 .va1 {
   max-width: 700px;
   padding: 0px 0px 20px 0px;
-  background: #FFFFFF;
+  background: #F9FFFF;
   white-space: normal;
   line-height: 1.2em;
   word-break: break-word;
@@ -542,7 +545,7 @@ span.underline {
 .va2 {
   max-width: 700px;
   padding: 0px 0px 20px 0px;
-  background: #FFFFFF;
+  background: #F9FFFF;
   white-space: normal;
   line-height: 1.2em;
   word-break: break-word;
