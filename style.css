@@ -12,7 +12,7 @@ body {
   padding: 25px;
   border: 0;
   margin: 0 auto;
-  background: #0086b3;
+  background: linear-gradient(to bottom, #000000, #0080b3 90%, #0086b3);
   }
 
 .logo {
