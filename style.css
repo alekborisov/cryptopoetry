@@ -3,7 +3,7 @@ body {
   background: repeating-radial-gradient(circle, #0086B3, #0086B3 10px, #0099CC 10px, #0099CC 20px);
   font-family: Courier, monospace;
   text-align:  center;
-}
+  }
 
 .container-head {
   width: 100%;
@@ -21,38 +21,38 @@ body {
   font-family: Verdana, Arial, Helvetica, sans-serif;
   font-size: 17pt;
   color: #F0F8FF;
-}
+  }
 
 nav {
   float: right;
   font-size: 12pt;
   color: #F0F8FF;
-}
+  }
 
 nav ul {
   margin: 10px 0px;
   padding: 0;
   list-style: none;
-}
+  }
 
 nav li {
   display: inline;
-}
+  }
 
 ul {
   list-style: none;
   margin: 0;
   padding-left: 0;
-}
+  }
 
 li {
   margin-right: 9px;
-}
+  }
 
 a {
   text-decoration: none;
   color: #F0F8FF;
-}
+  }
 
 a:hover {
   text-decoration: underline;
@@ -74,9 +74,9 @@ a.content {
   }
 
 a.content:hover {
-    text-decoration: none;
-    color: #1AC6FF;
-    }
+  text-decoration: none;
+  color: #1AC6FF;
+  }
 
 a.content-l2 {
   text-decoration: none;
@@ -111,14 +111,12 @@ a.content-l2:hover {
   color: #000000;
   }
 
-@supports (--css: variables) {
 .container-title {
   color: #000000;
   background: linear-gradient(to bottom, #00FFFF 45%, #DEFFFF 46%, #00FFFF 60%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   }
-}
 
 .ttl
   {
