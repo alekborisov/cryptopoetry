@@ -113,7 +113,7 @@ a.content-l2:hover {
 
 @supports (--css: variables) {
 .container-title {
-  color: transparent;
+  color: #000000;
   background: linear-gradient(to bottom, #00FFFF 45%, #DEFFFF 46%, #00FFFF 60%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
