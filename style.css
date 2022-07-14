@@ -109,10 +109,16 @@ a.content-l2:hover {
   line-height: 0.35em;
   font-size: 11pt;
   color: #000000;
+  }
+
+@supports (--css: variables) {
+.container-title {
+  color: transparent;
   background: linear-gradient(to bottom, #00FFFF 45%, #DEFFFF 46%, #00FFFF 60%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   }
+}
 
 .ttl
   {
