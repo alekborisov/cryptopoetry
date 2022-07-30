@@ -432,7 +432,7 @@ span.underline {
 .container-poem8 {
   width: 100%;
   max-width: 800px;
-  height: 240px;
+  height: 180px;
   padding: 25px;
   border: 0;
   margin: 0 auto;
@@ -458,7 +458,7 @@ span.underline {
 .container-poem9 {
   width: 100%;
   max-width: 800px;
-  height: 675px;
+  height: 240px;
   padding: 25px;
   border: 0;
   margin: 0 auto;
@@ -470,9 +470,9 @@ span.underline {
   }
 
   .p9 {
-  max-width: 155px;
-  height: 300px;
-  padding: 10px 15px 10px 30px;
+  max-width: 200px;
+  height: 45px;
+  padding: 10px 10px 10px 45px;
   border: 0;
   margin: 0 auto;
   text-align: left;
@@ -484,7 +484,7 @@ span.underline {
 .container-poem10 {
   width: 100%;
   max-width: 800px;
-  height: 735px;
+  height: 675px;
   padding: 25px;
   border: 0;
   margin: 0 auto;
@@ -510,7 +510,7 @@ span.underline {
 .container-poem11 {
   width: 100%;
   max-width: 800px;
-  height: 400px;
+  height: 735px;
   padding: 25px;
   border: 0;
   margin: 0 auto;
@@ -522,6 +522,32 @@ span.underline {
   }
 
   .p11 {
+  max-width: 155px;
+  height: 300px;
+  padding: 10px 15px 10px 30px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 0.55em;
+  background: #F9FFFF;
+  color: #000000;
+  }
+
+.container-poem12 {
+  width: 100%;
+  max-width: 800px;
+  height: 400px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #F9FFFF;
+  text-align: center;
+  line-height: 0.5em;
+  font-size: 11pt;
+  color: #3C3C3C;
+  }
+
+  .p12 {
   max-width: 105px;
   height: 245px;
   padding: 10px 15px 10px 25px;
@@ -533,7 +559,7 @@ span.underline {
   color: #000000;
   }
 
-.container-poem12 {
+.container-poem13 {
   width: 100%;
   max-width: 800px;
   height: 320px;
@@ -547,7 +573,7 @@ span.underline {
   color: #3C3C3C;
   }
 
-  .p12 {
+  .p13 {
   max-width: 95px;
   height: 120px;
   padding: 10px 15px 10px 30px;
@@ -559,7 +585,7 @@ span.underline {
   color: #000000;
   }
 
-.container-poem13 {
+.container-poem14 {
   width: 100%;
   max-width: 800px;
   height: 710px;
@@ -573,7 +599,7 @@ span.underline {
   color: #3C3C3C;
   }
 
-  .p13 {
+  .p14 {
   max-width: 180px;
   height: 430px;
   padding: 10px 15px 10px 40px;
