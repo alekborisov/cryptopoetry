@@ -262,15 +262,15 @@ span.underline {
   }
 
   .p1 {
-  max-width: 140px;
+  max-width: 400px;
   height: 135px;
-  padding: 10px 5px 10px 40px;
+  padding: 10px 5px 10px 27px;
   border: 0;
   margin: 0 auto;
   text-align: left;
   line-height: 0.55em;
   background: #F9FFFF;
-  color: #000000;
+  color: #1AC6FF;
   }
 
 .container-poem2 {
@@ -640,7 +640,7 @@ span.underline {
 .container-poem16 {
   width: 100%;
   max-width: 800px;
-  height: 710px;
+  height: 645px;
   padding: 25px;
   border: 0;
   margin: 0 auto;
@@ -654,7 +654,33 @@ span.underline {
   .p16 {
   max-width: 180px;
   height: 430px;
-  padding: 10px 15px 10px 40px;
+  padding: 5px 15px 10px 40px;
+  border: 0;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 0.55em;
+  background: #F9FFFF;
+  color: #000000;
+  }
+
+.container-poem17 {
+  width: 100%;
+  max-width: 800px;
+  height: 262px;
+  padding: 25px;
+  border: 0;
+  margin: 0 auto;
+  background: #F9FFFF;
+  text-align: center;
+  line-height: 0.5em;
+  font-size: 11pt;
+  color: #3C3C3C;
+  }
+
+  .p17 {
+  max-width: 335px;
+  height: 60px;
+  padding: 2px 10px 5px 15px;
   border: 0;
   margin: 0 auto;
   text-align: left;
